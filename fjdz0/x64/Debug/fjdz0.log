@@ -1,0 +1,5 @@
+﻿  飞机大战.cpp
+D:\C++\fjdz0\fjdz0\飞机大战.cpp(82,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C++\fjdz0\fjdz0\飞机大战.cpp(83,38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C++\fjdz0\fjdz0\飞机大战.cpp(140,43): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  fjdz0.vcxproj -> D:\C++\fjdz0\x64\Debug\fjdz0.exe
